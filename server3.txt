@@ -1,0 +1,7 @@
+apple.com 17.253.144.10 
+netflix.com 52.89.124.203
+wikipedia.org 208.80.154.224
+
+
+
+
